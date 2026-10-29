@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Download+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 JDownloader Free Installer** — JDownloader is a free, open-source download management application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 JDownloader Free Installer** — JDownloader is a free, open-source download manager supporting hundreds of file hosting services. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About JDownloader
 
-JDownloader is a free, open-source download management application for Windows, macOS, and Linux. Automatically detect and queue downloads from hundreds of file hosting sites including MEGA, Rapidgator, and others. Features include automatic captcha solving, download speed control, archive extraction, and remote control through a web interface. JDownloader's extensive site support and automation make it the standard for file hosting downloads.
+JDownloader is a free, open-source download manager supporting hundreds of file hosting services. It features automatic captcha solving, parallel downloads, archive extraction, and a browser integration plugin that captures download links automatically.
 
 ---
 
 ## ❌ Problem: JDownloader is hard to access
 
-- **Java Dependency** — Requires Java runtime installation
-- **Security Concerns** — Captcha solving services and remote control require careful configuration
-- **Interface Dated** — Java Swing-based interface design is dated
-- **Intrusive Features** — Default installation includes promotional features requiring deselection
+- **Java Dependency** — Requires Java runtime; adds installation overhead
+- **Complex Interface** — Feature-rich UI can be overwhelming for casual users
+- **Bundled Adware Risk** — Official installer historically bundled optional adware during setup
+- **Heavy Resource Use** — Java-based application consumes significant memory
 
 ---
 
@@ -121,7 +121,7 @@ JDownloader is a free, open-source download management application for Windows, 
 
 ---
 
-**JDownloader Free Installer** — JDownloader is a free, open-source download management application for Windows, macOS, and Linux. Install without internet connection today!
+**JDownloader Free Installer** — JDownloader is a free, open-source download manager supporting hundreds of file hosting services. Install without internet connection today!
 
 <div align="center">
 
